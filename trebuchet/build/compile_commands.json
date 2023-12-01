@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/matinandin/adventofcode2023/trebuchet/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/trebuchet.dir/main.cpp.o -c /home/matinandin/adventofcode2023/trebuchet/main.cpp",
+  "file": "/home/matinandin/adventofcode2023/trebuchet/main.cpp"
+}
+]
