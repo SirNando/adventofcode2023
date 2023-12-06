@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/matinandin/adventofcode2023/5-fertilizer/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/fertilizer.dir/main.cpp.o -c /home/matinandin/adventofcode2023/5-fertilizer/main.cpp",
+  "file": "/home/matinandin/adventofcode2023/5-fertilizer/main.cpp"
+}
+]

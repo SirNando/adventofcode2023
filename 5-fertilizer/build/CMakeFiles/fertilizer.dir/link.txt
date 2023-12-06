@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/fertilizer.dir/main.cpp.o -o fertilizer 
